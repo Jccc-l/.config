@@ -1,0 +1,53 @@
+# Increase volume
+#"pactl set-sink-volume @DEFAULT_SINK@ +1000"
+"./.dwm/vol-up.sh"
+   XF86AudioRaiseVolume
+
+# Decrease volume
+# "pactl set-sink-volume @DEFAULT_SINK@ -1000"
+"./.dwm/vol-down.sh"
+   XF86AudioLowerVolume
+
+# Mute volume
+# "pactl set-sink-mute @DEFAULT_SINK@ toggle"
+"./.dwm/vol-toggle.sh"
+   XF86AudioMute
+
+# Mute microphone
+"pactl set-source-mute @DEFAULT_SOURCE@ toggle"
+   XF86AudioMicMute
+
+#Brightness up
+"/home/jccc/.dwm/lightup.sh"
+	XF86MonBrightnessUp
+#Brightness down
+"/home/jccc/.dwm/lightdown.sh"
+	XF86MonBrightnessDown
+
+#Print Screen
+"flameshot gui"
+	Print
+
+# Change wallpaper
+# "/home/jccc/.dwm/wp-change.sh"
+# 	Shift+Mod4 + f
+
+# Rofi
+"rofi -show combi"
+	Mod4 + p
+
+# edex-ui
+"edex-ui"
+	Alt + Mod4 + Return
+
+# "/home/jccc/.dwm/wp-change.sh"
+# 	Control+Mod2+Mod4 + f
+
+"~/.dwm/sck-tog.sh"
+	Shift+Alt+ s
+
+"google-chrome-stable mail.qq.com"
+	XF86Mail
+
+"/home/jccc/.dwm/wp-change.sh"
+	Shift+Mod4 + F5
