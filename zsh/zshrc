@@ -4,7 +4,6 @@ source ~/.config/zsh/.zsh/zsh-syntax-highlighting-master/zsh-syntax-highlighting
 source ~/.config/zsh/.zsh/zsh-completions-master/zsh-completions.plugin.zsh
 source ~/.config/zsh/.zsh/alias.zsh
 source ~/.config/zsh/.zsh/ranger.zsh
-source ~/.config/zsh/.zsh/autostartx.zsh
 source ~/.config/zsh/.zsh/vi.zsh
 source ~/.config/zsh/.zsh/fzf.zsh
 
@@ -65,3 +64,5 @@ cat /home/jccc/.dwm/weather|lolcat
 # export http_proxy=""
 # export all_proxy=""
 PATH="$PATH:/home/jccc/.local/bin"
+
+source ~/.config/zsh/.zsh/autostartx.zsh
