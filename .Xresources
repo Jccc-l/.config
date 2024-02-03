@@ -1,0 +1,159 @@
+! dracula
+*.color0:#000000
+*.color1:#ff5555
+*.color2:#50fa7b
+*.color3:#f1fa8c
+*.color4:#bd93f9
+*.color5:#ff79c6
+*.color6:#8be9fd
+*.color7:#bbbbbb
+*.color8:#44475a
+*.color9:#ff5555
+*.color10:#50fa7b
+*.color11:#f1fa8c
+*.color12:#bd93f9
+*.color13:#ff79c6
+*.color14:#8be9fd
+*.color15:#ffffff
+*.color256:#282a36
+*.color257:#f8f8f2
+
+!! Alacritty (dark)
+!*.color0:#1d1f21
+!*.color1:#cc6666
+!*.color2:#b5bd68
+!*.color3:#f0c674
+!*.color4:#81a2be
+!*.color5:#b294bb
+!*.color6:#8abeb7
+!*.color7:#c5c8c6
+!*.color8:#666666
+!*.color9:#d54e53
+!*.color10:#b9ca4a
+!*.color11:#e7c547
+!*.color12:#7aa6da
+!*.color13:#c397d8
+!*.color14:#70c0b1
+!*.color15:#eaeaea
+!*.color256:#cccccc
+!*.color257:#555555
+
+!!One Half dark
+!*.color0: #282c34
+!*.color1: #e06c75
+!*.color2: #98c379
+!*.color3: #e5c07b
+!*.color4: #61afef
+!*.color5: #c678dd
+!*.color6: #56b6c2
+!*.color7: #dcdfe4
+!*.color8: #282c34
+!*.color9: #e06c75
+!*.color10: #98c379
+!*.color11: #e5c07b
+!*.color12: #61afef
+!*.color13: #c678dd
+!*.color14: #56b6c2
+!*.color15: #dcdfe4
+!*.color256: #cccccc
+!*.color257: #555555
+ 
+! ! One Half light
+! *.color0: #fafafa
+! *.color1: #e45649
+! *.color2: #50a14f
+! *.color3: #c18401
+! *.color4: #0184bc
+! *.color5: #a626a4
+! *.color6: #0997b3
+! *.color7: #383a42
+! *.color8: #fafafa
+! *.color9: #e45649
+! *.color10: #50a14f
+! *.color11: #c18401
+! *.color12: #0184bc
+! *.color13: #a626a4
+! *.color14: #0997b3
+! *.color15: #383a42
+! *.color256: #cccccc
+! *.color257: #555555
+! 
+! ! Solarized dark
+! *.color0: #073642
+! *.color1: #dc322f
+! *.color2: #859900
+! *.color3: #b58900
+! *.color4: #268bd2
+! *.color5: #d33682
+! *.color6: #2aa198
+! *.color7: #eee8d5
+! *.color8: #002b36
+! *.color9: #cb4b16
+! *.color10: #586e75
+! *.color11: #657b83
+! *.color12: #839496
+! *.color13: #6c71c4
+! *.color14: #93a1a1
+! *.color15: #fdf6e3
+! *.color256: #93a1a1
+! *.color257: #fdf6e3
+! 
+! ! Solarized light
+! *.color0: #eee8d5
+! *.color1: #dc322f
+! *.color2: #859900
+! *.color3: #b58900
+! *.color4: #268bd2
+! *.color5: #d33682
+! *.color6: #2aa198
+! *.color7: #073642
+! *.color8: #fdf6e3
+! *.color9: #cb4b16
+! *.color10: #93a1a1
+! *.color11: #839496
+! *.color12: #657b83
+! *.color13: #6c71c4
+! *.color14: #586e75
+! *.color15: #002b36
+! *.color256: #586e75
+! *.color257: #002b36
+! 
+! ! Gruvbox dark
+! *.color0: #282828
+! *.color1: #cc241d
+! *.color2: #98971a
+! *.color3: #d79921
+! *.color4: #458588
+! *.color5: #b16286
+! *.color6: #689d6a
+! *.color7: #a89984
+! *.color8: #928374
+! *.color9: #fb4934
+! *.color10: #b8bb26
+! *.color11: #fabd2f
+! *.color12: #83a598
+! *.color13: #d3869b
+! *.color14: #8ec07c
+! *.color15: #ebdbb2
+! *.color256: #ebdbb2
+! *.color257: #555555
+
+! ! Gruvbox light
+! *.color0:#fbf1c7
+! *.color1:#cc241d
+! *.color2:#98971a
+! *.color3:#d79921
+! *.color4:#458588
+! *.color5:#b16286
+! *.color6:#689d6a
+! *.color7:#7c6f64
+! *.color8:#928374
+! *.color9:#9d0006
+! *.color10:#79740e
+! *.color11:#b57614
+! *.color12:#076678
+! *.color13:#8f3f71
+! *.color14:#427b58
+! *.color15:#3c3836
+! *.color256:#3c3836
+! *.color257:#555555
