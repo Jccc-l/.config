@@ -6,6 +6,7 @@
 - [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions.git)
 
 ### Zsh Vi-Mode
 
