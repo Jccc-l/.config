@@ -24,6 +24,7 @@ zstyle ':completion:*' menu select
 
 source ~/.config/zsh/alias.zsh
 source ~/.config/zsh/vi.zsh
+source ~/.config/zsh/ranger.zsh
 source /home/jccc/.config/zsh/powerlevel10k/powerlevel10k.zsh-theme
 source /home/jccc/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
 source /home/jccc/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
