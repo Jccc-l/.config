@@ -16,13 +16,13 @@ HISTFILE=~/.config/zsh/.zsh_history
 HISTSIZE=1000
 SAVEHIST=1000
 setopt autocd beep extendedglob nomatch notify
-bindkey -v
 # End of lines configured by zsh-newuser-install
 
 
 
 
 source ~/.config/zsh/alias.zsh
+source ~/.config/zsh/vi.zsh
 source /home/jccc/.config/zsh/powerlevel10k/powerlevel10k.zsh-theme
 source /home/jccc/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
 
