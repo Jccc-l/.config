@@ -8,6 +8,13 @@
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions.git)
 
+```zsh
+ln -sf ~/.config/.muttrc ~/.muttrc
+ln -sf ~/.config/.xbindkeysrc ~/.xbindkeysrc
+ln -sf ~/.config/.Xresources ~/.Xresources
+ln -sf ~/.config/.p10k.zsh ~/.p10k.zsh
+```
+
 ### Zsh Vi-Mode
 
 Set Vi-Mode instead of emacs-mode
@@ -69,6 +76,7 @@ bindkey -M vicmd 'k' backward-char
 - lsd
 - man-pages-zh_cn
 - mpv
+- mutt
 - nekoray-bin
 - neovim
 - network-manager-applet
