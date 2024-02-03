@@ -1,0 +1,25 @@
+# 设置发件人信息
+set realname = "Jiancong Lu"
+set from = "Jiancong Lu <1216550215Jc@gmail.com>"
+set use_from = yes
+set edit_headers = yes
+set header_cache = ~/.cache/mutt
+set message_cachedir = ~/.cache/mutt
+
+# 配置邮件服务器
+set smtp_url = "smtp://smtp.gmail.com:587"
+set imap_user = "1216550215Jc@gmail.com"
+set imap_pass = "vxmb uvlz nhwt yggw"
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+mailboxes =INBOX =family
+mailboxes imaps://imap.gmail.com/INBOX imaps://imap.gmail.com/family
+set imap_check_subscribed
+set imap_keepalive = 300
+set mail_check = 10
+
+# 设置编辑器
+set editor = "vim"
+
+# 设置签名
+set signature = "~/.signature"
